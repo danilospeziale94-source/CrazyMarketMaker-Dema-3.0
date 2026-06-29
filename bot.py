@@ -48,7 +48,7 @@ Inserisci il codice: <b>B8gYmnJT</b>
 
 Dopo la registrazione invia questa email a info@puprime.com:
 
-"Hello, I want to be moved under IB CMM50"
+"Hello, I want to be moved under IB 23211945
 """
 
     elif call.data == "pagamento":
